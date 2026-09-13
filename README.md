@@ -4,7 +4,7 @@ Instead of performing long-running work inside HTTP requests, AsyncFlow persists
 
 ## Live Demo
 
-**Dashboard:** [YOUR_VERCEL_DASHBOARD_URL](https://async-flow-dashboard.vercel.app/)
+**Dashboard:** [ASYNCFLOW DASHBOARD](https://async-flow-dashboard.vercel.app/)
 
 **API:** https://asyncflow-api-e157.onrender.com
 
