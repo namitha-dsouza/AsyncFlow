@@ -1,6 +1,10 @@
 # AsyncFlow
-
 AsyncFlow is a distributed asynchronous job processing platform built with TypeScript, Fastify, PostgreSQL, Redis, and BullMQ.
+
+🧠 Problem
+
+Modern applications require reliable asynchronous task execution. AsyncFlow provides a scalable job processing system with retries, dead-letter queues, and idempotency support.
+
 
 ## Architecture
 
@@ -45,3 +49,4 @@ Then fetch the returned job ID:
 ```bash
 curl http://localhost:3000/api/v1/jobs/<JOB_ID>
 ```
+
