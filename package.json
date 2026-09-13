@@ -1,0 +1,14 @@
+{
+  "name": "asyncflow",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:api": "npm run dev --workspace=@asyncflow/api",
+    "dev:worker": "npm run dev --workspace=@asyncflow/worker",
+    "db:generate": "npm run prisma:generate --workspace=@asyncflow/database",
+    "db:migrate": "npm run prisma:migrate --workspace=@asyncflow/database"
+  }
+}
