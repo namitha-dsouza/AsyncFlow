@@ -177,3 +177,9 @@ DATABASE_URL=
 REDIS_URL=
 PORT=3000
 ```
+<img width="953" height="502" alt="Screenshot 2026-09-14 103837" src="https://github.com/user-attachments/assets/b2c4b90a-da32-46a7-8c25-1cd534e9fff5" />
+
+<img width="953" height="498" alt="image" src="https://github.com/user-attachments/assets/50caeaa3-451c-4186-830f-3c9cd7e33f99" />
+
+<img width="957" height="503" alt="image" src="https://github.com/user-attachments/assets/6781ec4c-66fc-4691-a215-3a00a3ee6a7a" />
+
